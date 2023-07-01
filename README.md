@@ -172,3 +172,8 @@ However, we recommend to follow the Gitlab guidelines for starters,
 that includes creating a Gitlab account, forking the ns-3-dev project
 under the new account's name, and then cloning the forked repository.
 You can find more information in the [manual](https://www.nsnam.org/docs/manual/html/working-with-git.html).
+
+## Uplink Schedulers
+Implemented UL Schedulers (BET (fr, time), MT and PF) is in src/lte/model.
+
+Реализованные планировщики для восходящего канала (BET (по частоте и времени), MT and PF) находятся в src/lte/model.
